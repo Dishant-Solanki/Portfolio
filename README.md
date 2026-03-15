@@ -33,14 +33,6 @@ Assets – Game assets, scripts, and prefabs
 Packages – Unity package dependencies
 ProjectSettings – Unity project settings
 
-## 📷 Screenshots
-
-(Add screenshots of your AR project here)
-
-Example:
-
-![Screenshot](screenshot1.png)
-
 ## 🚀 Future Improvements
 
 * Add more interactive AR objects
